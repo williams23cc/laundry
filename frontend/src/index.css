@@ -1,0 +1,26 @@
+html, body{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, Courier, monospace;
+    padding: 30px 70px;
+}
+
+button{
+    font-size: 1.3rem;
+    margin-right: 10px;
+    padding: 20px;
+}
+
+th{
+    background-color:royalblue;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 15px;
+    text-align: center;
+}
+
+.titleInvoice{
+    text-align: center;
+    background-color: skyblue;
+    color: blue;
+}
